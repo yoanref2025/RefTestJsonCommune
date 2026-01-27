@@ -1,0 +1,19 @@
+{
+  "communes": [
+    {
+      "uid": "e0f23a8e-8f37-4bc6-8887-82e2dacacc9f",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "nom":"MAIRIE DE PARIS"
+    },
+    {
+      "uid": "e831407a-25b0-4c72-8bd0-57ac3706518a",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "nom":"MAIRIE DE COURBEVOIE"
+    },
+    {
+      "uid": "b97c1914-7cd4-4bc3-8cdf-d309efad77c9",
+	  "uid_r": "7cb9690f-dbc3-4251-80bc-41e16d17cf57",
+	  "nom":"MAIRIE DE LILLE"
+    }
+  ]
+}
