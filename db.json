@@ -23,7 +23,17 @@
     {
       "uid": "4d952869-dd6d-4df7-a882-b88fb390df0f",
 	  "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-	  "nom":"PLACEO GPAC"
+	  "nom":"PLACEO GPAC COM 1"
+    },
+    {
+      "uid": "49d7b8d6-089f-4bf8-8028-a51643536134",
+	  "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom":"PLACEO GPAC COM 2"
+    },
+    {
+      "uid": "835329e6-ffd0-4a1d-8e1e-6590bcdb3c08",
+	  "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom":"PLACEO GPAC COM 3"
     }
   ]
 }
